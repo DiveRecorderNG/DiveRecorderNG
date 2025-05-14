@@ -1,3 +1,3 @@
-# Project to redevelop the legendary DiveRecorder application
+# Project to redevelop the legendary DiveRecorder
 
 
